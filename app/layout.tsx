@@ -13,9 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ImgGallery - Free HD Images & Wallpapers",
+  title: "ImgGallery | Free HD Images, Wallpapers & AI Photos",
   description:
-    "Download free HD images, wallpapers, AI images, nature photos, cars, technology, travel and more.",
+    "Download free HD images, wallpapers, AI photos, nature, cars, technology, travel and more. High-quality royalty-free images for personal and commercial use.",
+};
 };
 };
 
